@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "uri": "https://github.com/JContreras11/fakeJSON/raw/main/cddAbortion/anexo1-converted.pdf",
+    "name": "Anexo 1"
+  },
+  { "id": 2, "uri": "https://github.com/JContreras11/fakeJSON/raw/main/cddAbortion/anexo2-converted.pdf", "name": "Anexo 2" },
+  { "id": 3, "uri": "https://github.com/JContreras11/fakeJSON/raw/main/cddAbortion/anexo3-converted.pdf", "name": "Anexo 3" }
+]
