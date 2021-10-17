@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Lima",
+    "value": "Lima"
+  },
+  {
+    "id": 2,
+    "name": "Ayacucho",
+    "value": "Ayacucho"
+  },
+  {
+    "id": 3,
+    "name": "Ucayali",
+    "value": "Ucayali"
+  },
+  {
+    "id": 4,
+    "name": "Cajamarca",
+    "value": "Cajamarca"
+  }
+]
