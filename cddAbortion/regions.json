@@ -18,5 +18,25 @@
     "id": 4,
     "name": "Cajamarca",
     "value": "Cajamarca"
+  },
+  {
+    "id": 5,
+    "name": "Puno",
+    "value": "Puno"
+  },
+  {
+    "id": 6,
+    "name": "Arequipa",
+    "value": "Arequipa"
+  },
+  {
+    "id": 7,
+    "name": "Junin",
+    "value": "Junin"
+  },
+  {
+    "id": 8,
+    "name": "Trujillo",
+    "value": "Trujillo"
   }
 ]
