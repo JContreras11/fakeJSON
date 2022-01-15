@@ -1,0 +1,58 @@
+[
+  {
+    "ide_cat": 0,
+    "img_cat": "https://picsum.photos/200/300",
+    "nam_cat": "Flynn",
+    "des_cat": "Reprehenderit do deserunt fugiat ex non elit excepteur exercitation quis sit proident.",
+    "is_active": true
+  },
+  {
+    "ide_cat": 1,
+    "img_cat": "https://picsum.photos/200/300",
+    "nam_cat": "Santos",
+    "des_cat": "Sint cillum cillum dolore veniam.",
+    "is_active": false
+  },
+  {
+    "ide_cat": 2,
+    "img_cat": "https://picsum.photos/200/300",
+    "nam_cat": "Teri",
+    "des_cat": "Minim anim non ad Lorem fugiat non id labore ullamco velit adipisicing est.",
+    "is_active": false
+  },
+  {
+    "ide_cat": 3,
+    "img_cat": "https://picsum.photos/200/300",
+    "nam_cat": "Sofia",
+    "des_cat": "Amet tempor nisi consequat cillum veniam minim esse dolor excepteur occaecat do velit.",
+    "is_active": true
+  },
+  {
+    "ide_cat": 4,
+    "img_cat": "https://picsum.photos/200/300",
+    "nam_cat": "Munoz",
+    "des_cat": "Magna Lorem qui elit non incididunt ea officia ea.",
+    "is_active": false
+  },
+  {
+    "ide_cat": 5,
+    "img_cat": "https://picsum.photos/200/300",
+    "nam_cat": "Riley",
+    "des_cat": "Incididunt magna proident occaecat veniam irure sint ex amet mollit pariatur labore pariatur.",
+    "is_active": true
+  },
+  {
+    "ide_cat": 6,
+    "img_cat": "https://picsum.photos/200/300",
+    "nam_cat": "Glenna",
+    "des_cat": "Tempor duis ullamco laboris non elit eu nostrud sunt laboris.",
+    "is_active": false
+  },
+  {
+    "ide_cat": 7,
+    "img_cat": "https://picsum.photos/200/300",
+    "nam_cat": "Chrystal",
+    "des_cat": "Id ut laborum pariatur excepteur qui exercitation nulla.",
+    "is_active": false
+  }
+]
